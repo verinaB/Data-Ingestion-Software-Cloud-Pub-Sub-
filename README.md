@@ -1,1 +1,2 @@
-# Data-Ingestion-Software-Cloud-Pub-Sub-
+# -Data-Ingestion-Software-Cloud-Pub-Sub-
+The primary goal of this assignment is to understand the role of a Data Ingestion System in an Event-Driven Architecture (EDA). Specific objectives included familiarizing ourselves with Google Cloud Pub/Sub, its terminologies, and capabilities, as well as creating topics, producers, and consumers through both GUI and Python scripts.
